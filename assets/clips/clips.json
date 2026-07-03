@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Funny Reaction 😂",
+    "category": "Latest",
+    "duration": "00:42",
+    "thumbnail": "assets/images/thumbnails/clip1.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/clip1"
+  },
+  {
+    "id": 2,
+    "title": "Best Clutch",
+    "category": "Latest",
+    "duration": "01:13",
+    "thumbnail": "assets/images/thumbnails/clip2.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/clip2"
+  },
+  {
+    "id": 3,
+    "title": "Unexpected Moment",
+    "category": "Latest",
+    "duration": "00:57",
+    "thumbnail": "assets/images/thumbnails/clip3.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/clip3"
+  },
+  {
+    "id": 4,
+    "title": "Funny Fail",
+    "category": "Latest",
+    "duration": "01:04",
+    "thumbnail": "assets/images/thumbnails/clip4.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/clip4"
+  },
+  {
+    "id": 5,
+    "title": "Featured Highlight",
+    "category": "Featured",
+    "duration": "02:10",
+    "thumbnail": "assets/images/thumbnails/featured1.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/featured1"
+  },
+  {
+    "id": 6,
+    "title": "Top Twitch Moment",
+    "category": "Featured",
+    "duration": "01:29",
+    "thumbnail": "assets/images/thumbnails/featured2.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/featured2"
+  }
+]
