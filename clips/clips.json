@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Zany Concerned Bean",
+    "category": "Funny",
+    "duration": "00:30",
+    "thumbnail": "assets/images/thumbnails/clip1.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/ZanyConcernedBeanPraiseIt-emTrWfZny57D1_PD"
+  },
+  {
+    "id": 2,
+    "title": "Frozen Amazonian Yam",
+    "category": "Gaming",
+    "duration": "00:30",
+    "thumbnail": "assets/images/thumbnails/clip2.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/FrozenAmazonianYamTheRinger-xnxosX5_JfzHtuGs"
+  },
+  {
+    "id": 3,
+    "title": "Tough Triangular Pickles",
+    "category": "Highlight",
+    "duration": "00:30",
+    "thumbnail": "assets/images/thumbnails/clip3.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/ToughTriangularPicklesTBCheesePull-InuVObTwwwKWOBBv"
+  },
+  {
+    "id": 4,
+    "title": "Cultured Faint Goose",
+    "category": "Funny",
+    "duration": "00:30",
+    "thumbnail": "assets/images/thumbnails/clip4.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/CulturedFaintGoosePeteZarollTie-5gPWVrUX9gXiCSSk"
+  },
+  {
+    "id": 5,
+    "title": "Heartless Moist Hawk",
+    "category": "Gaming",
+    "duration": "00:30",
+    "thumbnail": "assets/images/thumbnails/clip5.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/HeartlessMoistHawkHassaanChop-pcEfOODYUw9LGSQB"
+  },
+  {
+    "id": 6,
+    "title": "Jazzy Humble Lard",
+    "category": "Funny",
+    "duration": "00:30",
+    "thumbnail": "assets/images/thumbnails/clip6.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/JazzyHumbleLardNotLikeThis-e9tPFcd5Op32iJ6D"
+  },
+  {
+    "id": 7,
+    "title": "Eager Jazzy Klee",
+    "category": "Highlight",
+    "duration": "00:30",
+    "thumbnail": "assets/images/thumbnails/clip7.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/EagerJazzyKleeDAESuppy--wjK_lvGQNeGZaav"
+  },
+  {
+    "id": 8,
+    "title": "Kitschy Plausible Fiddleheads",
+    "category": "Gaming",
+    "duration": "00:30",
+    "thumbnail": "assets/images/thumbnails/clip8.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/KitschyPlausibleFiddleheadsTebowing-1xsxBBDH6BRkGqrh"
+  },
+  {
+    "id": 9,
+    "title": "Friendly Frozen Fennel",
+    "category": "Funny",
+    "duration": "00:30",
+    "thumbnail": "assets/images/thumbnails/clip9.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/FriendlyFrozenFennelDBstyle-SItiN0PVT4rqrofV"
+  },
+  {
+    "id": 10,
+    "title": "Darling Quaint Gazelle",
+    "category": "Highlight",
+    "duration": "00:30",
+    "thumbnail": "assets/images/thumbnails/clip10.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/DarlingQuaintGazelleDoritosChip-t6bdvO9v35yXNsSA"
+  }
+]
