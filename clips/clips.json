@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Funny Reaction",
+    "category": "Funny",
+    "duration": "00:42",
+    "thumbnail": "assets/images/thumbnails/clip1.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/REPLACE_WITH_CLIP_1"
+  },
+  {
+    "id": 2,
+    "title": "Best Clutch",
+    "category": "Gaming",
+    "duration": "01:13",
+    "thumbnail": "assets/images/thumbnails/clip2.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/REPLACE_WITH_CLIP_2"
+  },
+  {
+    "id": 3,
+    "title": "Unexpected Moment",
+    "category": "Highlight",
+    "duration": "00:57",
+    "thumbnail": "assets/images/thumbnails/clip3.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/REPLACE_WITH_CLIP_3"
+  },
+  {
+    "id": 4,
+    "title": "Funny Fail",
+    "category": "Funny",
+    "duration": "01:04",
+    "thumbnail": "assets/images/thumbnails/clip4.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/REPLACE_WITH_CLIP_4"
+  },
+  {
+    "id": 5,
+    "title": "Insane Play",
+    "category": "Gaming",
+    "duration": "00:39",
+    "thumbnail": "assets/images/thumbnails/clip5.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/REPLACE_WITH_CLIP_5"
+  },
+  {
+    "id": 6,
+    "title": "Top Highlight",
+    "category": "Highlight",
+    "duration": "01:28",
+    "thumbnail": "assets/images/thumbnails/clip6.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/REPLACE_WITH_CLIP_6"
+  },
+  {
+    "id": 7,
+    "title": "Epic Win",
+    "category": "Gaming",
+    "duration": "00:51",
+    "thumbnail": "assets/images/thumbnails/clip7.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/REPLACE_WITH_CLIP_7"
+  },
+  {
+    "id": 8,
+    "title": "Streamer Reaction",
+    "category": "Reaction",
+    "duration": "00:34",
+    "thumbnail": "assets/images/thumbnails/clip8.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/REPLACE_WITH_CLIP_8"
+  },
+  {
+    "id": 9,
+    "title": "Best Moment",
+    "category": "Highlight",
+    "duration": "00:48",
+    "thumbnail": "assets/images/thumbnails/clip9.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/REPLACE_WITH_CLIP_9"
+  },
+  {
+    "id": 10,
+    "title": "Legendary Clip",
+    "category": "Gaming",
+    "duration": "01:17",
+    "thumbnail": "assets/images/thumbnails/clip10.jpg",
+    "url": "https://www.twitch.tv/hqsl__/clip/REPLACE_WITH_CLIP_10"
+  }
+]
