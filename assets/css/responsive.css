@@ -1,0 +1,35 @@
+@media (max-width:900px){
+
+.navbar .container{
+flex-direction:column;
+gap:20px;
+}
+
+nav ul{
+flex-wrap:wrap;
+justify-content:center;
+gap:18px;
+}
+
+.search-box input{
+width:100%;
+}
+
+.hero h1{
+font-size:48px;
+}
+
+.hero p{
+font-size:18px;
+}
+
+.section-title{
+font-size:28px;
+}
+
+.footer-links{
+flex-direction:column;
+gap:25px;
+}
+
+}
