@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Watch Clip | HQSL.TV</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/responsive.css">
+
+<link rel="icon" href="assets/icons/favicon.png">
+
+</head>
+
+<body>
+
+<header class="navbar">
+
+<div class="container">
+
+<a href="index.html" class="logo">
+HQSL<span>.TV</span>
+</a>
+
+<nav>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+<li><a href="index.html#latest">Latest</a></li>
+<li><a href="index.html#featured">Featured</a></li>
+<li><a href="about.html">About</a></li>
+
+</ul>
+
+</nav>
+
+</div>
+
+</header>
+
+<section class="watch-page">
+
+<div class="container">
+
+<div class="video-player">
+
+<video
+id="videoPlayer"
+controls
+autoplay
+playsinline
+width="100%"
+poster="assets/images/thumbnails/featured1.jpg">
+
+<source
+src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+type="video/mp4">
+
+Your browser does not support HTML5 video.
+
+</video>
+
+</div>
+
+<div class="video-info">
+
+<h1 id="clipTitle">
+
+Loading...
+
+</h1>
+
+<p>
+
+Uploaded by HQSL
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<div class="footer-content">
+
+<h2>HQSL.TV</h2>
+
+<p>Best Moments From HQSL</p>
+
+<p>
+
+HQSL.TV is an independent fan-made website.<br>
+
+Not affiliated with Twitch or HQSL.
+
+</p>
+
+<p>
+
+© 2026 HQSL.TV
+
+</p>
+
+</div>
+
+</footer>
+
+<script>
+
+const params = new URLSearchParams(window.location.search);
+
+const clip = params.get("clip");
+
+const title = document.getElementById("clipTitle");
+
+switch(clip){
+
+case "1":
+title.textContent="Funny Reaction 😂";
+break;
+
+case "2":
+title.textContent="Best Clutch";
+break;
+
+case "3":
+title.textContent="Unexpected Moment";
+break;
+
+case "4":
+title.textContent="Funny Fail";
+break;
+
+case "5":
+title.textContent="Featured Highlight";
+break;
+
+case "6":
+title.textContent="Top Twitch Moment";
+break;
+
+default:
+title.textContent="HQSL Clip";
+
+}
+
+</script>
+
+</body>
+</html>
